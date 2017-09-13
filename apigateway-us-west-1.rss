@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Amazon API Gateway (N. California) Service Status</title>
+    <link>http://status.aws.amazon.com/</link>
+    <link rel="alternate" href="http://status.aws.amazon.com/rss/all.rss" type="application/rss+xml" title="Amazon Web Services Status Feed"/>
+    <title type="text">Current service status feed for Amazon API Gateway (N. California).</title>
+    <language>en-us</language>
+    <pubDate>Wed, 28 Jun 2017 00:04:09 PDT</pubDate>
+    <updated>Wed, 28 Jun 2017 00:04:09 PDT</updated>
+    <generator>AWS Service Health Dashboard RSS Generator</generator>
+    <ttl>5</ttl>
+
+	
+  </channel>
+</rss>
